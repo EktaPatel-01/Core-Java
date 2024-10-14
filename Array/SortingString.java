@@ -1,7 +1,5 @@
 package Array;
 
-import java.util.Arrays;
-
 public class SortingString {
     public static void main(String[] args) {
         String str="Abhishek";
